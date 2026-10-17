@@ -1,0 +1,12 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# uv cache (if placed inside the repo)
+.uvcache/
+
+# tool outputs
+work/
+dota2_语音包/
+manifest.csv

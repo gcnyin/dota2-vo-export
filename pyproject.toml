@@ -1,0 +1,10 @@
+[project]
+name = "dota2-vo-export"
+version = "0.1.0"
+description = "Extract Dota 2 announcer / mega-kill / TI broadcast voice packs from VPK into plain mp3/wav files"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.uv]
+package = false
